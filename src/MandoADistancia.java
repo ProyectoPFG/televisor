@@ -16,7 +16,7 @@ public class MandoADistancia {
         
         TV tv1;
         tv1 = new TV();
-        
+        System.out.println("er fuckingo mola shur!!!");
         tv1.encender();
         tv1.subirCanal();
         tv1.subirCanal();
